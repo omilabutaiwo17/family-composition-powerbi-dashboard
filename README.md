@@ -5,22 +5,22 @@
 
 This project analyses family composition trends using census data. The goal is to understand how household structures have changed over time and identify key patterns.
 
-📁 Dataset
+#📁 Dataset
 Source: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/stepfamiliesblendedfamiliesanddependentchildrencensus2021
 
 Data includes family types across multiple years
 Cleaned and transformed for analysis	
 
-🔍 Exploratory Data Analysis (EDA)
+#🔍 Exploratory Data Analysis (EDA)
 Checked for missing values and inconsistencies
 Created Year colunm and analysed trends across years
 Identified key variations in family structures
 
-📈 Dashboard Features
+#📈 Dashboard Features
 Interactive filters (Year, Family Type)
 KPI cards showing totals and percentages
 
-Visualisations: bar charts, line charts, Doughnut charts,Tables
+#Visualisations: bar charts, line charts, Doughnut charts,Tables
 
 💡 Key Insights
 
@@ -38,7 +38,7 @@ Interactive Dashboards
 Data Visualisation
 Data Storytelling
 
-🛠️ Tools Used
+#🛠️ Tools Used
 
 Power BI
 Microsoft Excel
