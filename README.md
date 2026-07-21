@@ -14,12 +14,15 @@ Cleaned and transformed for analysis
 **🔍 Exploratory Data Analysis (EDA)**
 
 Checked for missing values and inconsistencies
+
 Created Year colunm and analysed trends across years
+
 Identified key variations in family structures
 
 **📈 Dashboard Features**
 
 Interactive filters (Year, Family Type)
+
 KPI cards showing totals and percentages
 
 **Visualisations:**
@@ -28,17 +31,27 @@ Bar charts, line charts, Doughnut charts,Tables
 **💡 Key Insights**
 
 Between 2011 and 2021, the number of step children decreased overall.
+
 Step-family rates vary considerably between local authorities.
+
 Couple families account for the largest share of dependent children.
+
 Lone-parent and step-parent family structures differ across age groups.
 
 **Skills Demonstrated**
+
 Power Query
+
 Data Cleaning
+
 Data Modelling
+
 DAX Measures
+
 Interactive Dashboards
+
 Data Visualisation
+
 Data Storytelling
 
 **🛠️ Tools Used**
